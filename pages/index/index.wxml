@@ -1,0 +1,64 @@
+<view class="container">
+  <view class="jk-wandering-cubes">
+    <view class="jk-cube jk-cube1"></view>
+    <view class="jk-cube jk-cube2"></view>
+  </view>
+  <view class="jk-rotating-plane"></view>
+
+  <view class="jk-double-bounce">
+    <view class="jk-child jk-double-bounce1"></view>
+    <view class="jk-child jk-double-bounce2"></view>
+  </view>
+
+
+  <view class="jk-wave">
+    <view class="jk-rect jk-rect1"></view>
+    <view class="jk-rect jk-rect2"></view>
+    <view class="jk-rect jk-rect3"></view>
+    <view class="jk-rect jk-rect4"></view>
+    <view class="jk-rect jk-rect5"></view>
+  </view>
+
+  <view class="jk-three-bounce">
+    <view class="jk-child jk-bounce1"></view>
+    <view class="jk-child jk-bounce2"></view>
+    <view class="jk-child jk-bounce3"></view>
+  </view>
+
+  <view class="jk-circle">
+    <view class="jk-circle1 jk-child"></view>
+    <view class="jk-circle2 jk-child"></view>
+    <view class="jk-circle3 jk-child"></view>
+    <view class="jk-circle4 jk-child"></view>
+    <view class="jk-circle5 jk-child"></view>
+    <view class="jk-circle6 jk-child"></view>
+    <view class="jk-circle7 jk-child"></view>
+    <view class="jk-circle8 jk-child"></view>
+    <view class="jk-circle9 jk-child"></view>
+    <view class="jk-circle10 jk-child"></view>
+    <view class="jk-circle11 jk-child"></view>
+    <view class="jk-circle12 jk-child"></view>
+  </view>
+
+  <view class="jk-cube-grid">
+    <view class="jk-cube jk-cube1"></view>
+    <view class="jk-cube jk-cube2"></view>
+    <view class="jk-cube jk-cube3"></view>
+    <view class="jk-cube jk-cube4"></view>
+    <view class="jk-cube jk-cube5"></view>
+    <view class="jk-cube jk-cube6"></view>
+    <view class="jk-cube jk-cube7"></view>
+    <view class="jk-cube jk-cube8"></view>
+    <view class="jk-cube jk-cube9"></view>
+  </view>
+
+
+  <view class="jk-folding-cube">
+    <view class="jk-cube1 jk-cube"></view>
+    <view class="jk-cube2 jk-cube"></view>
+    <view class="jk-cube4 jk-cube"></view>
+    <view class="jk-cube3 jk-cube"></view>
+  </view>
+
+
+</view>

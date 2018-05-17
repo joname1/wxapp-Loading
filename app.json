@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"white",
+    "navigationBarBackgroundColor": "#003398",
+    "navigationBarTitleText": "小程序Loading",
+    "navigationBarTextStyle":"white"
+  }
+}
